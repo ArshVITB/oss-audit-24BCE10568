@@ -2,7 +2,7 @@
 
 ## 👤 Student Details
 - **Name:** Arsh Bakshi  
-- **Roll Number:** YOUR_ROLL_NUMBER  
+- **Roll Number:** 24BCE10568  
 
 ---
 
